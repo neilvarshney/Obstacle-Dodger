@@ -2,6 +2,8 @@
 
 A simple 2D arcade-style game where players dodge horizontally moving obstacles. Built with Java Processing.
 
+![Gameplay Photos](/image2.png)  
+![Gameplay Photos](/image1.png)  
 ![Gameplay Photos](/image.png)  
 
 
