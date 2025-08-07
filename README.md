@@ -8,15 +8,17 @@ A simple 2D arcade-style game where players dodge horizontally moving obstacles.
 
 
 ## Gameplay
-- Control a player character using the up and down arrow keys
+- Control a spaceship using the up and down arrow keys
 - Dodge randomly generated obstacles moving horizontally
-- Get as many points before the 30 second timer ends!
 - Game ends on collision with any obstacle
+- Get as many points before the 30 second timer ends!
+- Each successful point to the top gains more time on the timer
 
 ## Features
-- Dynamic obstacle spawning system
+- Dynamic obstacle spawning system (different speeds and positioning)
 - Clean minimalist GUI
 - 3 different difficulty options
+- Powerup obstacles
 - Collision detection system
 - Game over screen with score display
 
