@@ -1,41 +1,27 @@
-Obstacle Dodger
-A simple, interactive GUI application created with Java Processing where you must dodge a series of obstacles that move horizontally across the screen.
+# Obstacle Dodger :video_game:
 
-🎮 How to Play
-The goal of the game is to avoid the incoming obstacles for as long as possible. The game features a player-controlled spaceship that can be moved to dodge the obstacles.
+![Java Processing](https://img.shields.io/badge/Java-Processing-red) ![License](https://img.shields.io/github/license/neilvarshney/Obstacle-Dodger)
 
-Controls:
+A simple yet addictive 2D arcade-style game where players dodge horizontally moving obstacles. Built with Java Processing.
 
-Mouse: Move your mouse left and right to control the horizontal position of the spaceship.
+![Gameplay Demo](https://via.placeholder.com/600x400/222/fff?text=Gameplay+Preview)  
+*(Replace with actual gameplay GIF/screenshot)*
 
-P: Press 'P' to pause the game.
+## Gameplay
+- Control a player character using **arrow keys**
+- Dodge randomly generated obstacles moving horizontally
+- Survive as long as possible!
+- Game ends on collision with any obstacle
 
-R: Press 'R' to resume the game.
+## Features
+- Dynamic obstacle spawning system
+- Clean minimalist GUI
+- Score tracking with time-based scoring
+- Increasing difficulty over time
+- Collision detection system
+- Game over screen with score display
 
-The score is displayed on the screen and increases the longer you survive.
-
-🚀 How to Run the Project
-This project was built using the Processing language, which is based on Java. To run this game, you will need to:
-
-Download and install the Processing IDE. You can find the latest version on the official Processing website.
-
-Open the .pde file in the Processing IDE. The main file is ICS4U_Culminating.pde.
-
-Press the "Run" button (the play icon ▶️) in the Processing IDE to start the game.
-
-💻 Technologies Used
-Language: Java
-
-Framework: Processing
-
-📄 File Structure
-ICS4U_Culminating.pde: The main file containing the game's logic.
-
-Obstacles.pde: Handles the creation and movement of the obstacles.
-
-Spaceship.pde: Defines the player's spaceship and its movement.
-
-Timer.pde: Manages the game timer and scoring.
-
-🧑‍💻 Contributing
-If you would like to contribute, feel free to fork the repository and submit a pull request!
+## Installation
+1. Ensure you have [Processing](https://processing.org/download/) installed
+2. Clone the repository:
+   ```bash
