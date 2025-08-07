@@ -2,8 +2,8 @@
 
 A simple 2D arcade-style game where players dodge horizontally moving obstacles. Built with Java Processing.
 
-![Gameplay Demo](https://via.placeholder.com/600x400/222/fff?text=Gameplay+Preview)  
-*(Replace with actual gameplay GIF/screenshot)*
+![Gameplay Photos](/image.png)  
+
 
 ## Gameplay
 - Control a player character using the up and down arrow keys
