@@ -24,4 +24,4 @@ A simple 2D arcade-style game where players dodge horizontally moving obstacles.
 1. Ensure you have [Processing](https://processing.org/download/) installed
 2. Clone the repository:
    ```bash
-   git clone https://github.com/neilvarshney/Obstacle-Dodger.git```
+   git clone https://github.com/neilvarshney/Obstacle-Dodger.git
